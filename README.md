@@ -6,14 +6,6 @@ Este material é parte do curso de Lógica de Programação através da Linguage
 
 Índice de Conteúdos
 =================
-   * [Exercícios Resolvidos](https://github.com/ArturColen/Pre-AEDS1-Workshop/tree/main/exercicios-resolvidos)
-      * [Mão na Massa](https://github.com/ArturColen/Pre-AEDS1-Workshop/tree/main/exercicios-resolvidos/mao-na-massa)
-         * [Exercício de Processamento](https://github.com/ArturColen/Pre-AEDS1-Workshop/blob/main/exercicios-resolvidos/mao-na-massa/01-processamento/average-grade.c)
-         * [Exercício de Estrutura Condicional](https://github.com/ArturColen/Pre-AEDS1-Workshop/blob/main/exercicios-resolvidos/mao-na-massa/02-estruturas-condicionais/grade-average-calculator.c)
-         * [Exercício de Estrutura de Repetição](https://github.com/ArturColen/Pre-AEDS1-Workshop/blob/main/exercicios-resolvidos/mao-na-massa/03-estruturas-de-repeticao/grade-average-calculator-with-for.c)
-         * [Exercício de Vetor](https://github.com/ArturColen/Pre-AEDS1-Workshop/blob/main/exercicios-resolvidos/mao-na-massa/04-vetores/saving-students-grade-in-vector.c)
-      * [Projeto Final](https://github.com/ArturColen/Pre-AEDS1-Workshop/tree/main/exercicios-resolvidos/projeto-final)
-         * [Gerenciamento de Nota de Alunos](https://github.com/ArturColen/Pre-AEDS1-Workshop/blob/main/exercicios-resolvidos/projeto-final/student-grade-management.c)
    * [Materiais](https://github.com/ArturColen/Pre-AEDS1-Workshop/tree/main/materiais)
       * [História da Computação e Conceitos Básicos](https://github.com/ArturColen/Pre-AEDS1-Workshop/tree/main/materiais/00-historia-da-computacao-e-conceitos-basicos)
          * [O que é um Computador](https://github.com/ArturColen/Pre-AEDS1-Workshop/blob/main/materiais/00-historia-da-computacao-e-conceitos-basicos/00.01-o-que-e-um-computador.md)
@@ -58,6 +50,14 @@ Este material é parte do curso de Lógica de Programação através da Linguage
          * [Colocando a Mão na Massa #4](https://github.com/ArturColen/Pre-AEDS1-Workshop/blob/main/materiais/06-vetores/06.05-colocando-a-mao-na-massa-04.md)
       * [Projeto Final](https://github.com/ArturColen/Pre-AEDS1-Workshop/tree/main/materiais/07-projeto-final)
          * [Gerenciamento de Notas de Alunos](https://github.com/ArturColen/Pre-AEDS1-Workshop/blob/main/materiais/07-projeto-final/07.01-projeto-final.md)
+   * [Exercícios Resolvidos](https://github.com/ArturColen/Pre-AEDS1-Workshop/tree/main/exercicios-resolvidos)
+      * [Mão na Massa](https://github.com/ArturColen/Pre-AEDS1-Workshop/tree/main/exercicios-resolvidos/mao-na-massa)
+         * [Exercício de Processamento](https://github.com/ArturColen/Pre-AEDS1-Workshop/blob/main/exercicios-resolvidos/mao-na-massa/01-processamento/average-grade.c)
+         * [Exercício de Estrutura Condicional](https://github.com/ArturColen/Pre-AEDS1-Workshop/blob/main/exercicios-resolvidos/mao-na-massa/02-estruturas-condicionais/grade-average-calculator.c)
+         * [Exercício de Estrutura de Repetição](https://github.com/ArturColen/Pre-AEDS1-Workshop/blob/main/exercicios-resolvidos/mao-na-massa/03-estruturas-de-repeticao/grade-average-calculator-with-for.c)
+         * [Exercício de Vetor](https://github.com/ArturColen/Pre-AEDS1-Workshop/blob/main/exercicios-resolvidos/mao-na-massa/04-vetores/saving-students-grade-in-vector.c)
+      * [Projeto Final](https://github.com/ArturColen/Pre-AEDS1-Workshop/tree/main/exercicios-resolvidos/projeto-final)
+         * [Gerenciamento de Nota de Alunos](https://github.com/ArturColen/Pre-AEDS1-Workshop/blob/main/exercicios-resolvidos/projeto-final/student-grade-management.c)
 
 ## Direitos de uso
 
