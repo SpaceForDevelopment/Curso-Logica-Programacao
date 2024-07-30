@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
+  // Declaração das variáveis
   float grade1, grade2, grade3;
   int approved = 0, reproved = 0;
 

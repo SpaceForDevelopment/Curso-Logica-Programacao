@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-  // Declaração de variáveis: grade para a nota do aluno, quantityStudents para o número de alunos
+  // Declaração das variáveis
   float grade;
   int quantityStudents = 0;
 

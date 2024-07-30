@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-  // Declaração de variáveis para armazenar as três notas e a média
+  // Declaração das variáveis para armazenar as três notas e a média
   float grade1, grade2, grade3, media;
 
   // Solicitação e leitura da 1ª nota do usuário
