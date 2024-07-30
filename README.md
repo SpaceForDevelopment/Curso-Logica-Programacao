@@ -4,6 +4,8 @@
 
 Este material é parte do curso de Lógica de Programação através da Linguagem de Programação C, com o objetivo de ajudar alunos que estão ingressando na disciplina de Algoritmo e Estrutura de Dados I. O repositório contém uma coleção de materiais de estudo, apresentações e códigos de exemplo para reforçar o aprendizado dos conceitos básicos de programação.
 
+> [Link para acompanhar o desenvolvimento do projeto pelo Repli](https://replit.com/join/cihvqgzpbc-arturcolen)
+
 # Índice de Conteúdos
 
 -   [Materiais](https://github.com/ArturColen/Pre-AEDS1-Workshop/tree/main/materiais)
