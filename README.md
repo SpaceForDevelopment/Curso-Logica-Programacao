@@ -61,4 +61,4 @@ Este material é parte do curso de Lógica de Programação através da Linguage
 
 ## Direitos de uso
 
-Este material está sob a licença MIT, permitindo que professores e alunos o utilizem para aprender, estudar e compartilhar conhecimento. No entanto, é importante ressaltar que todos os que utilizarem este material — independentemente da finalidade — devem manter a referência ao material original. O conteúdo não pode ser utilizado para criar livros, apostilas ou outros materiais destinados à venda, com o objetivo de obter lucro financeiro, seja por autores, editoras ou instituições de ensino.
+Este material está sob a [licença MIT](https://github.com/ArturColen/Pre-AEDS1-Workshop/blob/main/LICENSE.md), permitindo que professores e alunos o utilizem para aprender, estudar e compartilhar conhecimento. No entanto, é importante ressaltar que todos os que utilizarem este material — independentemente da finalidade — devem manter a referência ao material original. O conteúdo não pode ser utilizado para criar livros, apostilas ou outros materiais destinados à venda, com o objetivo de obter lucro financeiro, seja por autores, editoras ou instituições de ensino.
