@@ -60,8 +60,8 @@ Este material é parte do curso de Lógica de Programação através da Linguage
         -   [Exercício de Vetor](https://github.com/ArturColen/Pre-AEDS1-Workshop/blob/main/exercicios-resolvidos/mao-na-massa/04-vetores/saving-students-grade-in-vector.c)
     -   [Projeto Final](https://github.com/ArturColen/Pre-AEDS1-Workshop/tree/main/exercicios-resolvidos/projeto-final)
         -   [Gerenciamento de Nota de Alunos](https://github.com/ArturColen/Pre-AEDS1-Workshop/blob/main/exercicios-resolvidos/projeto-final/student-grade-management.c)
--   [Apresentação]()
-    -   [Slides apresentados no workshop]()
+-   [Apresentação](https://github.com/ArturColen/Pre-AEDS1-Workshop/tree/main/apresentacao)
+    -   [Slides apresentados no workshop](https://github.com/ArturColen/Pre-AEDS1-Workshop/blob/main/apresentacao/workshop-pre-aeds1-artur-bomtempo.pdf)
 
 ## Direitos de uso
 
