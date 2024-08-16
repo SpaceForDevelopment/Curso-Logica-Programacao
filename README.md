@@ -1,10 +1,8 @@
 <img src="https://github.com/user-attachments/assets/1c6d08b5-22e2-4577-9046-c400fc46d033" align="right" width="300">
 
-# Workshop de Pré AEDS I
+# Curso de Lógica de Programação
 
-Este material é parte do curso de Lógica de Programação através da Linguagem de Programação C, com o objetivo de ajudar alunos que estão ingressando na disciplina de Algoritmo e Estrutura de Dados I. O repositório contém uma coleção de materiais de estudo, apresentações e códigos de exemplo para reforçar o aprendizado dos conceitos básicos de programação.
-
-> [Link para acompanhar o desenvolvimento do projeto pelo Repli](https://replit.com/join/cihvqgzpbc-arturcolen)
+Este material faz parte do curso de Lógica de Programação utilizando a Linguagem de Programação C, com o objetivo de auxiliar os alunos participantes do curso da Space For Development. O repositório contém uma coleção de materiais de estudo, apresentações e códigos de exemplo para reforçar o aprendizado dos conceitos básicos de programação.
 
 # Índice de Conteúdos
 

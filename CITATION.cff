@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+message: "Please cite this software using these metadata."
+title: Materiais do curso de Lógica de Programação
+authors:
+  - family-names: Bomtempo Colen
+    given-names: Artur
+keywords:
+  - C
+  - Programming Logic
+  - Course
+repository-code: https://github.com/SpaceForDevelopment/Curso-Logica-Programacao
+license: MIT
+version: 1.0.0
+date-released: 2024-07-29
